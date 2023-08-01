@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const quotes = [
 	'Kolay olmayacak ama gerçekleştiğine değecek.',
 	'Taşı delen suyun gücü değil, damlaların sürekliliğidir.',

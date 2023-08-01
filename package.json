@@ -1,6 +1,6 @@
 {
 	"name": "baass",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "BAASS!",
 	"main": "index.js",
 	"bin": {
