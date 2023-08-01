@@ -1,10 +1,10 @@
 {
 	"name": "baass",
-	"version": "1.0.2",
+	"version": "1.0.1",
 	"description": "BAASS!",
 	"main": "index.js",
 	"bin": {
-		"baass": "node ./index.js"
+		"baass": "./index.js"
 	},
 	"scripts": {
 		"start": "node index.js",
