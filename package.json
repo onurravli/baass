@@ -1,14 +1,10 @@
 {
 	"name": "baass",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "BAASS!",
 	"main": "index.js",
 	"bin": {
-		"baass": "node ./index.js"
-	},
-	"scripts": {
-		"start": "node index.js",
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"baass": "./index.js"
 	},
 	"keywords": [],
 	"author": "Onur Ravli <onur@ravli.co>",
